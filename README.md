@@ -1,2 +1,1 @@
-# abye
-kuat 
+React template placeholder
